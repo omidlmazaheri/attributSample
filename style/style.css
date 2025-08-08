@@ -1,0 +1,27 @@
+  body {
+      /* background-color: black;  */
+  }
+
+  label {
+      /* color: white; */
+  }
+
+  #second {
+      background-color: yellow;
+      color: red;
+  }
+
+  /* OMID: readability */
+  p#forth {
+      color: blue;
+  }
+
+  p#para1 {
+      background-color: red;
+      color: yellow;
+  }
+
+  p.para {
+      background-color: red;
+      color: yellow;
+  }
